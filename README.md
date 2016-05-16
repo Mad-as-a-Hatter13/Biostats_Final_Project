@@ -6,6 +6,7 @@ There are three main files:
   2. Plots - These are plots that I have created for my specific project. Each plot was created individually and then combined for clarity using PowerPoint as I did not have the time to make every plot a side by side plot.
   3. Data - The initial pull data sets are included if you just want to run my code. I have also included the final RCode data set if you would rather skip the first two Python steps though I do not recommend this.
 
+### Please note that the second pull completed is too large to upload to GitHub. This data is however in the RData file and can be obtained via request as applicable. 
 
 #Resources:
 <p>http://adilmoujahid.com/posts/2014/07/twitter-analytics/</p>
